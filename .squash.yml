@@ -1,3 +1,4 @@
 deployments:
   default:
     ready_wait: 120
+    filename: docker-compose.yml
